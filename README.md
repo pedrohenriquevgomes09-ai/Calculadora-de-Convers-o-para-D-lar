@@ -1,4 +1,4 @@
-# 💱 Calculadora de Conversão para Dólar
+#  Calculadora de Conversão para Dólar
 
 Este projeto é uma aplicação simples que calcula quantos dólares (USD) podem ser comprados com um determinado valor em moeda local (por exemplo, reais), com base na cotação atual ou informada pelo usuário.
 
